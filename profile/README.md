@@ -1,5 +1,4 @@
 ## HolaSui GM 🌞👋
-![loyaltyGM-logo-black](https://user-images.githubusercontent.com/22254882/201515763-1d6db5da-1c5f-4afa-a13a-bb0f2d7746bd.png)
 
 <!--
 
