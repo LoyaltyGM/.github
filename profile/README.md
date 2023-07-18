@@ -10,3 +10,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+HolaSui is a platform for builders that allows the creation of gamification experiences on the Sui blockchain using our tools and services, thereby boosting community interest and engagement.
